@@ -1,3 +1,9 @@
-# My Awesome Book
+## 注意事项： {#注意事项}
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1. 认真看注意事项，违反注意事项最严重将导致被删号。
+2. **严禁在任何地方公开节点信息**
+   ，包括但不限于官方QQ群、官方TG群，发现者一律删号并不退款。
+3. 严禁进行：下载BT、盗版、群发垃圾邮件、扫描、政治行为。
+
+
+
