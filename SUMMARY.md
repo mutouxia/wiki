@@ -8,7 +8,7 @@
   * [Surge-iOS](quan-ping-tai-shi-yong-jiao-cheng/iosduan-shi-yong-jiao-cheng.md)
   * [Shadowrocket-iOS](quan-ping-tai-shi-yong-jiao-cheng/shadowrocket-ios.md)
 * [客户端下载](xia-zai-di-zhi.md)
-* [使用问答](qi-ta-wen-ti.md)
+* [使用问答](qi-ta-wen-ti)
   * [使用服务](qi-ta-wen-ti/shi-yong-fu-wu.md)
   * [网络问题](qi-ta-wen-ti/wang-luo-wen-ti.md)
   * [隐私问题](qi-ta-wen-ti/yin-si-wen-ti.md)
