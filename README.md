@@ -1,6 +1,6 @@
-##### ![](/assets/map.svg)![](https://www.boomssr.com/images/map.svg) {#关于abclite：}
+![](/assets/map.svg)
 
-##### 注意事项： {#关于abclite：}
+注意事项：
 
 1. 认真看注意事项，违反注意事项最严重将导致被删号。
 2. **严禁在任何地方公开节点信息**
