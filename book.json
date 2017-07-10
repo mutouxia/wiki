@@ -1,0 +1,33 @@
+{
+    "title": "BoomCloud Wiki",
+    "description": "你好，欢迎使用BoomCloud Wiki Center，我们将提供BoomCloud服务相关教程指引及进阶教程。",
+    "language": "zh-hans",
+    "plugins": [
+        "prism",
+        "-highlight",
+        "splitter",
+        "-search",
+        "-lunr",
+        "search-pro",
+        "livereload",
+        "tbfed-pagefooter",
+        "sitemap"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": ["搜索"]
+        },
+		"sitemap": {
+        "hostname": "http://wiki.boomssr.com"
+		},
+        "fontsettings": {
+        "family": "sans",
+        "size": 2
+        },
+        "tbfed-pagefooter": {
+        "copyright":"Copyright &copy BoomCloud 2017",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+    }
+}
