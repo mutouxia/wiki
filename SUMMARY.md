@@ -6,7 +6,7 @@
   * [Windows](quan-ping-tai-shi-yong-jiao-cheng/windowsshi-yong-jiao-cheng.md)
   * [Mac OS](quan-ping-tai-shi-yong-jiao-cheng/macshi-yong-jiao-cheng.md)
   * [Surge-iOS](quan-ping-tai-shi-yong-jiao-cheng/iosduan-shi-yong-jiao-cheng.md)
-  * Shadowrocket-iOS
+  * [Shadowrocket-iOS](quan-ping-tai-shi-yong-jiao-cheng/shadowrocket-ios.md)
 * [客户端下载](xia-zai-di-zhi.md)
 * [使用问答](qi-ta-wen-ti.md)
   * [使用服务](qi-ta-wen-ti/shi-yong-fu-wu.md)
