@@ -9,8 +9,8 @@
   * Shadowrocket-iOS
 * [客户端下载](xia-zai-di-zhi.md)
 * [使用问答](qi-ta-wen-ti.md)
-  * 使用服务
-  * 网络问题
+  * [使用服务](qi-ta-wen-ti/shi-yong-fu-wu.md)
+  * [网络问题](qi-ta-wen-ti/wang-luo-wen-ti.md)
   * 隐私问题
 * [问题集锦 Q&A](wen-ti-ji-jin-q-and-a.md)
 
