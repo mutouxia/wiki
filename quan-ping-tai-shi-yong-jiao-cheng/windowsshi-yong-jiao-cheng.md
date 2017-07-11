@@ -10,7 +10,7 @@
 ![](/assets/map.svg)
 返回到 Boom Cloud 管理门户，在页面顶部可以发现 [ 自动配置 ] 功能区，点击 Windows 配置的 “SSR 配置” 以下载一键配置文件
 ![](/assets/map.svg)
-你的浏览器应当会下载一个名为```gui-config.json``` 的文件。如果没有开始下载，建议更换为其他现代浏览器（推荐 Google Chrome）
+你的浏览器应当会下载一个名为`gui-config.json` 的文件。如果没有开始下载，建议更换为其他现代浏览器（推荐 Google Chrome）
 ![](/assets/map.svg)
 将该文件放到之前 ShadowsocksR 客户端的目录中，并双击ShadowsocksR图标启动
 ![](/assets/map.svg)
