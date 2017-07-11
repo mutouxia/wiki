@@ -30,8 +30,8 @@
 | Surge | [下载地址](https://itunes.apple.com/cn/app/surge-web-developer-tool-and-proxy-utility/id1040100637?mt=8) | 是 | 328 RMB |
 
 * iOS下的客户端种类繁多，其实使用者的功能性需求很明确，这个时候就需要考虑性价比及使用便利性。  
-* 从经济角度考虑推荐Shadowrocket，土豪且追求性能的话推荐Surge.
-  ---
+
+---
 
 注意事项：
 
