@@ -2,14 +2,14 @@
 - - - - -
 #### 1. 进入用户中心，下载 Surge 配置文件
 登录用户中心，在"您订购的产品" 区域，找到订阅的加速服务。点击进入产品详情页面。
-![](/assets/map.svg)
+![](/assets/howtouse/surge-use1.png )
 #### 2.下载Surge配置文件
 使用桌面版浏览器，点击 “自动配置” 区域中，“Surge 配置文件” 按钮，即可下载 BoomCloud.conf 配置文件。此文件中包含云服务的全部信息，请务必妥善保管，请勿泄露。
-![](/assets/map.svg)
+![](/assets/howtouse/surge-use2.png)
 #### 3. 开启云加速服务
 把下载的配置文件通过QQ或者icloud传到手机端
 按照下图中3-6，选择任意线路，开启云加速服务。
-![](/assets/map.svg)
+![](/assets/howtouse/surge-use3.png)
 - - - - -
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。    
