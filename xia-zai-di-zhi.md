@@ -6,7 +6,7 @@
 BoomCloud自主客户端【推荐】
 
 | 客户端名称 | 下载链接 |
-| :--- | :--- |
+| :---: | :---: |
 | Boomcloud Client for Windows | [下载地址](https://mdzz.press/Boomcloud-Client/win/BoomCloud-for-win_1.7.zip) |
 | Boomcloud Client for Mac | [下载地址](https://mdzz.press/Boomcloud-Client/macOS/BoomCloud_V1.5.dmg) |
 | Boomcloud Client for Android | 努力开发中 |
@@ -21,7 +21,7 @@ BoomCloud自主客户端【推荐】
 公开客户端
 
 | 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 | SSR for Windows | [下载地址](https://my.pcloud.com/publink/show?code=kZCdKUZa8ynymKoz0kmFlTPawvnURF1Whsy#folder=537094494) | 是 | 免费 |
 | SSR for Windows | [下载地址](https://my.pcloud.com/publink/show?code=kZCdKUZa8ynymKoz0kmFlTPawvnURF1Whsy#folder=537098450) | 是 | 免费 |
 | SSR for Windows | [下载地址](https://my.pcloud.com/publink/show?code=kZCdKUZa8ynymKoz0kmFlTPawvnURF1Whsy#folder=537095110) | 是 | 免费 |
