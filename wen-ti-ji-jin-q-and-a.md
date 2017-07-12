@@ -5,7 +5,7 @@
 * 如果没有大量用户反应无法连接，当你无法连接的时候肯定是你自己的问题。可根据此QA来查询问题。
 * 可能性一：检查DNS，并修改DNS。修改DNS教程：[Win7教程](http://jingyan.baidu.com/article/f71d60375584591ab641d13c.html)、[Win10教程](http://jingyan.baidu.com/article/1612d50058aa86e20e1eee96.html)、[Android教程](http://jingyan.baidu.com/article/77b8dc7f9ffc1d6174eab6a6.html)、[IOS教程](http://jingyan.baidu.com/article/6525d4b155877dac7d2e9499.html)、[Mac OS教程](http://jingyan.baidu.com/article/fc07f9891f626712ffe519cf.html)
 * DNS建议修改为114.114.114.114或8.8.8.8
-* 可能性二：SS/SSR没有配置好，建议参考全<code>平台使用教程</code>。
+* 可能性二：SS/SSR没有配置好，建议参考<code>全平台使用教程</code>。
 * 可能性三：Boom Cloud后台的连接密码出现乱码。如何修改连接密码：
 ![](/assets/passwd.jpg)
 * 可能性四：套餐流量超出或者套餐到期。等待下个月流量重置或者续费套餐。
