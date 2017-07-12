@@ -9,10 +9,10 @@
 
 **联系我们**
 
-<i class="fa fa-twitter" aria-hidden="true"> Twitter：[关注获取最新信息](https://twitter.com/BoomCloud_)
-<i class="icon-group icon-x"> Telegram 交流群：[交友聊天搞基都可以](https://t.me/boomcloud)
-<i class="icon-group icon-x"> Telegram 公告群：[与Twitter同步所有信息推送](https://t.me/boomNotice)
+<i class="fa fa-twitter" aria-hidden="true"></i> Twitter：[关注获取最新信息](https://twitter.com/BoomCloud_)
+<i class="icon-group icon-x"></i> Telegram 交流群：[交友聊天搞基都可以](https://t.me/boomcloud)
+<i class="icon-group icon-x"></i> Telegram 公告群：[与Twitter同步所有信息推送](https://t.me/boomNotice)
 
 ---
 
-<center>[BoomCloud节点监控情况查看](https://s.boomssr.com/)</center>
+<center> [BoomCloud节点监控情况查看](https://s.boomssr.com/) </center>
