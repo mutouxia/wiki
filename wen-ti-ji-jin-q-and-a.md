@@ -27,4 +27,4 @@
  
 ---
 
-BoomCloud[节点监控]情况查看(https://s.boomssr.com/)
+<center> BoomCloud[节点监控](https://s.boomssr.com/)情况查看 <center>
