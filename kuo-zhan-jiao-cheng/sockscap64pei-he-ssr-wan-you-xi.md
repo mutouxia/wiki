@@ -4,7 +4,9 @@
 
 **最近很多人反映开SS玩儿游戏很卡，首先要普及的是SS直接用并不适用于打游戏，各种游戏不同数据传输协议也不同，所以做任何事情之前动动脑子，别只想着打游戏，打游戏都不动脑子可见你游戏玩儿的也不怎么地，对吧？好了今天给大家介绍下如何用SocksCap64+Shadowsocks玩外服游戏以LOL为例，本文的SocksCap64相对来说配置会更加简单一点。**
 
-* 首先，下载SocksCap64，[下载地址](https://sourceforge.net/projects/sockscap64/files/?source=officialsite)、
+* 首先，下载SocksCap64，[下载地址](https://sourceforge.net/projects/sockscap64/files/?source=officialsite)
+
+
 
 * 下载后运行，点击那个+号添加一个代理服务器，因为我们是配合Shadowsocks，所以ip填写127.0.0.1，端口1080，类型SOCKS 5，其他空白。
 
