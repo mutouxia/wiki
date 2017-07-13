@@ -7,7 +7,7 @@
 软件可以在官网下载，[https://www.proxifier.com/](https://www.proxifier.com/)
 
 官网无法下载的也可在如下百度网盘下载，  
-Windows，[点击下载](https://mdzz.press/%E5%B7%A5%E5%85%B7%E9%9B%86%E5%90%88/ProxifierSetup.exe)
+Windows，[点击下载](https://mdzz.press/工具集合/ProxifierSetup.exe)
 
 目前仅支持windows和mac os，不支持手机。
 
@@ -23,7 +23,11 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 
 
 
+
+
 如下图，添加地址127.0.0.1，以及shadowsocks里配置的本地端口，默认为1080，选择socks version 5
+
+
 
 
 
@@ -31,7 +35,11 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 
 
 
+
+
 接下来就要添加规则，来确定哪些软件是走代理的，哪些不用
+
+
 
 
 
@@ -39,9 +47,7 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 
 
 
+
+
 最后在首页就能看到你各个软件的情况。玩儿游戏的同理规则里添加你的游戏，希望你能玩儿的开心快乐
-
-
-
-
 
