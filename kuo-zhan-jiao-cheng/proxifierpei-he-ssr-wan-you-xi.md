@@ -18,6 +18,8 @@ L6Z8A-XY2J4-BTZ3P-ZZ7DF-A2Q9C（Portable Edition）
 P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 ```
 
+
+
 打开软件，首先配置代理服务器。
 
 ![](/assets/game/proxifier1.png)
