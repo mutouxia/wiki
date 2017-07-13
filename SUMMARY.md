@@ -1,7 +1,5 @@
 # Summary
 
-## 欢迎使用
-
 * [欢迎使用](README.md)
 * [全平台使用教程](quan-ping-tai-shi-yong-jiao-cheng.md)
   * [Android](quan-ping-tai-shi-yong-jiao-cheng/androidduan-shi-yong-jiao-cheng.md)
@@ -19,7 +17,5 @@
   * [隐私问题](qi-ta-wen-ti/yin-si-wen-ti.md)
 * [问题集锦 Q&A](wen-ti-ji-jin-q-and-a.md)
 
-## 扩展教程
 
-* 教程1
 
