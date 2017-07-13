@@ -19,7 +19,7 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 ```
 
 打开软件，首先配置代理服务器。
-![](assets/game/proxifier1.png)
+
 
 如下图，添加地址127.0.0.1，以及shadowsocks里配置的本地端口，默认为1080，选择socks version 5
 ![](assets/game/proxifier2.png)
