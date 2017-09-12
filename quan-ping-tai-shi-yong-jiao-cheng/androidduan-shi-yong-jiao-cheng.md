@@ -8,23 +8,19 @@
 
 建议使用 Chrome 访问 Boom云加速 管理门户，登录用户中心，在"您订购的产品" 区域，找到 云加速 服务。点击进入产品详情页面。
 
-![](assets/ios/shadowrocket-1.png)
+![](assets/ios/shadowrocket-1.png)![](/assets/ios/shadowrocket-1.png)
 
 #### 2. 导入 BoomCloud 接入点信息订阅
 
 滑动页面到「自动配置」功能区，然后点击「全平台配置」区域的「节点订阅」。
 
-![](https://www.gitbook.com/book/thomas0612/wiki-for-boomcloud/quan-ping-tai-shi-yong-jiao-cheng/assets/ios/shadowrocket-2.png)
 
-!\[\]\(/ios/shadowrocket-1.png\)
 
 点击「节点订阅」按钮后，应当可以看到绿色的「复制成功」文字，这代表接入点订阅 URL 已经成功地复制到了你设备的剪贴板中。
 
 ![](assets/ios/shadowrocket-3.png)
 
-![](https://www.gitbook.com/book/thomas0612/wiki-for-boomcloud/quan-ping-tai-shi-yong-jiao-cheng/assets/ios/shadowrocket-2.png)
 
-!\[\]\(/ios/shadowrocket-2.png\)
 
 打开 ShadowsocksR 应用程序，然后点击顶部的「ShadowsocksR」区域进入接入点列表
 
