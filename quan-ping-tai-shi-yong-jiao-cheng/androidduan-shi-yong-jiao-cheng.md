@@ -18,8 +18,6 @@
 
 ![](/assets/ios/shadowrocket-3.png)
 
-
-
 打开 ShadowsocksR 应用程序，然后点击顶部的「ShadowsocksR」区域进入接入点列表
 
 ![](/assets/howtouse/android01.png)
