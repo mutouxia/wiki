@@ -3,12 +3,13 @@
 ---
 
 ### 为BoomCloud用户准备的下地地址汇总，已在此写出。
-BoomCloud自主客户端【推荐】
+客户端【推荐新手使用】
 
 | 客户端名称 | 下载链接 |
 | :---: | :---: |
-| Boomcloud Client for Windows | [下载地址](https://mdzz.press/Boomcloud-Client/win/BoomCloud-for-win_1.7.zip) |
-| Boomcloud Client for Mac | [下载地址](https://mdzz.press/Boomcloud-Client/macOS/BoomCloud_V1.5.dmg) |
+| Boomcloud Client for Windows | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud-win.1.9.7z) |
+| Boomcloud Client for Mac | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_V1.6.dmg) |
+| Boomcloud Client for Game | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/Boomcloud加速器2.1.7z) |
 | Boomcloud Client for Android | 努力开发中 |
 | Boomcloud Client for iOS | 努力开发中 |
 
@@ -18,7 +19,7 @@ BoomCloud自主客户端【推荐】
 * 适应多套餐用户，可自由自主切换套餐无需登录面板   
 ---
 
-公开客户端
+公开客户端(适用于专业用户)
 
 | 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
 | :---: | :---: | :---: | :---: |
