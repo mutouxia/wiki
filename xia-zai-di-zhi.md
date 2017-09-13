@@ -7,9 +7,9 @@
 
 | 客户端名称 | 下载链接 |
 | :---: | :---: |
-| Boomcloud Client for Windows | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud-win.1.9.7z) |
-| Boomcloud Client for Mac | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_V1.6.dmg) |
-| Boomcloud Client for Game | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/Boomcloud加速器2.1.7z) |
+| Boomcloud Client for Windows(推荐) | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud-win.1.9.7z) |
+| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_V1.6.dmg) |
+| Boomcloud Client for Game(打游戏推荐) | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/Boomcloud加速器2.1.7z) |
 | Boomcloud Client for Android | 努力开发中 |
 | Boomcloud Client for iOS | 努力开发中 |
 
