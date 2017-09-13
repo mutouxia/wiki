@@ -2,8 +2,9 @@
 - - -
 #### macOS平台使用方法一（推荐新手）
 ##### 1.下载BoomCloud for Mac客户端
-下载地址1:BoomCloud Wiki Center 全平台客户端下载地址
-下载地址2:BoomCloud 用户中心   客户端下载菜单下
+下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://wiki.boomssr.com/xia-zai-di-zhi.html)  
+
+下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boomssr.com/downloads.php)
 ##### 2.安装客户端并登陆
 将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
 · 登录 Boomcloud 账户自动获取接入点信息  

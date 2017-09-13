@@ -2,11 +2,15 @@
 - - -
 #### Windows平台使用方法一（推荐新手）
 ##### 1.下载BoomCloud for Windows客户端
-下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://wiki.boomssr.com/xia-zai-di-zhi.html)
+下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://wiki.boomssr.com/xia-zai-di-zhi.html)  
+
 下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boomssr.com/downloads.php)
+
 ##### 2.安装客户端并登陆
 将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
+
 ![](/assets/win/client-01.png)
+
 · 登录 Boomcloud 账户自动获取接入点信息  
 · 自动获取套餐到期时间以及流量使用剩余信息  
 · 适应多套餐用户，可自由自主切换套餐无需登录面板   
@@ -16,27 +20,44 @@
 #### Windows平台使用方法二(推荐专业)
 ##### 1. 使用桌面浏览器登录到 Boom Cloud 管理门户
 建议使用Chrome浏览器，访问 Boom Cloud 管理门户,点击您的订阅进入订阅详情页面
+
 ![](/assets/win/0.png)
+
 ##### 2. 导入 Boom Cloud 接入点信息
 点击订阅打开订阅详情页面，然后找到「自动配置」功能区。然后点击「全平台配置」部分的「节点订阅」按钮
+
 ![](/assets/win/001.png)
+
 点击之后会提示您已经复制成功
+
 ![](/assets/win/002.png)
+
 打开 ShadowsocksR 客户端（您可以在Wiki Center或者官网提供的链接下载 BoomCloud 专版的 ShadowsocksR 客户端），然后右键点击托盘栏的纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」
+
 ![](/assets/win/003.png)  
+
 在弹出的窗口中点击「Add」，清除网址框中内容，然后粘贴刚刚复制的订阅地址（此地址包含您的订阅信息，请勿泄露给他人），然后勾选「自动更新」复选框，点击「OK」
+
 ![](/assets/win/004.png)
+
 再次右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「更新 SSR 服务器订阅（不通过代理）」
+
 ![](/assets/win/005.png)
+
 一小段时间后（具体时间取决于您的网络情况），您将会收到「服务器订阅更新成功」的通知消息，同时查看服务器列表也可以看到对应的 BoomCloud 节点。
+
 ![](/assets/win/006.png)
+
 使用 BoomCloud 接入点信息订阅是目前最推荐的做法，使用后您无需每次在 BoomCloud 更新接入点后手动前往 BoomCloud 管理门户更新配置，而是可以令客户端在每次启动是自动尝试更新配置文件，同时您也可以手动来立即更新接入点信息。
 
 ##### 3. 配置系统代理
 祝贺！你现在已经完成了所有客户端配置，但是想要使用 Boom Cloud 加速网络，还需要打开系统代理。
 请右键点击托盘栏的纸飞机图标，在系统代理模式中选择 [ PAC 模式 ] 或 [ 全局模式 ]
+
 ![](/assets/win/10.png)
+
 然后选择PAC 更新下GFWlist。
+
 ![](/assets/win/8.png)
 
 ```
