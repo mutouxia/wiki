@@ -1,56 +1,42 @@
 ### Boomcloud加速 使用教程 —— Windows
 - - -
-### Windows平台使用方法一（推荐新手）
-#### 1.登录BoomCloud门户
-建议使用Chrome浏览器登录，以获得最佳体验
-#### 2.转到用户中心-客户端下载菜单
-客户端下载在用户中心面板的右侧
-#### 3.下载Boomcloud Client for WIndows客户端
+#### Windows平台使用方法一（推荐新手）
+##### 1.下载BoomCloud for Windows客户端
+下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://wiki.boomssr.com/xia-zai-di-zhi.html)
+下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boomssr.com/downloads.php)
+##### 2.安装客户端并登陆
+将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
+![](/assets/win/client-01.png)
 · 登录 Boomcloud 账户自动获取接入点信息  
 · 自动获取套餐到期时间以及流量使用剩余信息  
 · 适应多套餐用户，可自由自主切换套餐无需登录面板   
 · 以 shadowsocksr 方式运行
-#### 4.安装软件，打开之后登录账号
-账号即是BoomCloud门户的注册邮箱，密码即您的账号密码
-#### 5.登录之后即可开始科学上网
+##### 3.开始科学上网
 登录之后软件会自动选择默认线路，如无法正常上网，您可以尝试切换线路
-
-
-### Windows平台使用方法二(推荐专业)
-#### 1. 使用桌面浏览器登录到 Boom Cloud 管理门户
-建议使用Chrome浏览器，访问 Boom Cloud 管理门户
-
+#### Windows平台使用方法二(推荐专业)
+##### 1. 使用桌面浏览器登录到 Boom Cloud 管理门户
+建议使用Chrome浏览器，访问 Boom Cloud 管理门户,点击您的订阅进入订阅详情页面
 ![](/assets/win/0.png)
+##### 2. 导入 Boom Cloud 接入点信息
+点击订阅打开订阅详情页面，然后找到「自动配置」功能区。然后点击「全平台配置」部分的「节点订阅」按钮
+![](/assets/win/001.png)
+点击之后会提示您已经复制成功
+![](/assets/win/002.png)
+打开 ShadowsocksR 客户端（您可以在Wiki Center或者官网提供的链接下载 BoomCloud 专版的 ShadowsocksR 客户端），然后右键点击托盘栏的纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」
+![](/assets/win/003.png)  
+在弹出的窗口中点击「Add」，清除网址框中内容，然后粘贴刚刚复制的订阅地址（此地址包含您的订阅信息，请勿泄露给他人），然后勾选「自动更新」复选框，点击「OK」
+![](/assets/win/004.png)
+再次右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「更新 SSR 服务器订阅（不通过代理）」
+![](/assets/win/005.png)
+一小段时间后（具体时间取决于您的网络情况），您将会收到「服务器订阅更新成功」的通知消息，同时查看服务器列表也可以看到对应的 BoomCloud 节点。
+![](/assets/win/006.png)
+使用 BoomCloud 接入点信息订阅是目前最推荐的做法，使用后您无需每次在 BoomCloud 更新接入点后手动前往 BoomCloud 管理门户更新配置，而是可以令客户端在每次启动是自动尝试更新配置文件，同时您也可以手动来立即更新接入点信息。
 
-在"[资源下载](https://www.boomssr.com/downloads.php)" 区域，找到 ShadowsocksR for macOS。点击下载软件。
-
-![](/assets/win/2.png)
-
-#### 2. 导入 Boom Cloud 接入点信息
-下载后使用 7-zip 软件或其他解压缩软件对压缩包进行解压，应当会得到这些文件
-
-![](/assets/win/3.png)
-
-返回到 Boom Cloud 管理门户，在页面顶部可以发现 [ 自动配置 ] 功能区，点击 Windows 配置的 “SSR 配置” 以下载一键配置文件  
-
-![](/assets/win/5.png)
-
-你的浏览器应当会下载一个名为`gui-config.json` 的文件。如果没有开始下载，建议更换为其他现代浏览器（推荐 Google Chrome） 
-
-![](/assets/win/6.png)  
-
-将该文件放到之前 ShadowsocksR 客户端的目录中，并双击ShadowsocksR图标启动
-
-![](/assets/win/7.png)
-
-#### 3. 配置系统代理
+##### 3. 配置系统代理
 祝贺！你现在已经完成了所有客户端配置，但是想要使用 Boom Cloud 加速网络，还需要打开系统代理。
 请右键点击托盘栏的纸飞机图标，在系统代理模式中选择 [ PAC 模式 ] 或 [ 全局模式 ]
-
 ![](/assets/win/10.png)
-
 然后选择PAC 更新下GFWlist。
-
 ![](/assets/win/8.png)
 
 ```

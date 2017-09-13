@@ -1,6 +1,6 @@
 ### Boomcloud加速 使用教程 —— Shadowrocket
 - - - - -
-#### 1. 使用浏览器登录到 BoomCloud 管理门户
+##### 1. 使用浏览器登录到 BoomCloud 管理门户
 登录用户中心，在"您订购的产品" 区域，找到已激活的产品服务。
 
 ![](/assets/ios/shadowrocket-1.png)
@@ -9,7 +9,7 @@
 
 ![](/assets/ios/shadowrocket-2.png)
 
-#### 2. 在 Shadowrocket 中添加接入点信息订阅
+##### 2. 在 Shadowrocket 中添加接入点信息订阅
 打开 Shadowrocket App，然后在主界面点击右上角的「+」号。
 
 ![](/assets/ios/shadowrocket-4.png)
