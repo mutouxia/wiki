@@ -10,6 +10,7 @@
 * [其他扩展教程]()
   * [Proxifier配合SSR  玩游戏](kuo-zhan-jiao-cheng/proxifierpei-he-ssr-wan-you-xi.md)
   * [SocksCap64配合SSR 玩游戏](kuo-zhan-jiao-cheng/sockscap64pei-he-ssr-wan-you-xi.md)
+  * [手游篇--手机模拟器](mo-ni-qi.md)
 * [客户端下载](xia-zai-di-zhi.md)
 * [使用问答]()
   * [使用服务](qi-ta-wen-ti/shi-yong-fu-wu.md)
