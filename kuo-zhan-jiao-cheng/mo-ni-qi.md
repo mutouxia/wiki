@@ -20,3 +20,7 @@
 滑动页面到顶部，点击纸飞机图标连接，如果是首次连接，则系统会弹出如下的提示框，请点击「是」。
 
 ![](/assets/howtouse/android08.png)
+
+---
+
+<center>**警告:BooCloud WIki提供的扩展教程不保证对所有用户有效！**</center>
