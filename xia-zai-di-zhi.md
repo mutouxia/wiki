@@ -23,9 +23,9 @@
 
 | 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
 | :---: | :---: | :---: | :---: |
-| SSR for Windows | [下载地址](https://my.pcloud.com/publink/show?code=kZCdKUZa8ynymKoz0kmFlTPawvnURF1Whsy#folder=537094494) | 是 | 免费 |
-| SSR for Windows | [下载地址](https://my.pcloud.com/publink/show?code=kZCdKUZa8ynymKoz0kmFlTPawvnURF1Whsy#folder=537098450) | 是 | 免费 |
-| SSR for Windows | [下载地址](https://my.pcloud.com/publink/show?code=kZCdKUZa8ynymKoz0kmFlTPawvnURF1Whsy#folder=537095110) | 是 | 免费 |
+| SSR for Windows | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/ShadowsocksR.7z) | 是 | 免费 |
+| SSR for macOS | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/ssr-mac.dmg) | 是 | 免费 |
+| SSR for Android | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/ssr-android.apk) | 是 | 免费 |
 | Shadowrocket | [下载地址](https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8) | 是 | 18 RMB |
 | Surge | [下载地址](https://itunes.apple.com/cn/app/surge-web-developer-tool-and-proxy-utility/id1040100637?mt=8) | 是 | 328 RMB |
 
