@@ -2,7 +2,7 @@
 - - - 
 **1. 怎么使用BoomCloud服务？**
 
-* 首先在[www.boomssr.com](https://wwwboomssr.com)注册账号，然后选择相应的套餐购买付款后即使开通使用。
+* 首先在[www.boomssx.com](https://wwwboomssx.com)注册账号，然后选择相应的套餐购买付款后即使开通使用。
 * 如有不懂请参阅次wiki内的全平台教程  
 
 **2. 购买后流量不够用怎么办？**
@@ -45,8 +45,8 @@
 
 | 周期 | 响应时间 | 其他 |
 | :---: | :---: | :---: |
-| 工作日 | 8小时内 | [Telegrame群可紧急反馈](https://t.me/boomcloud) |
-| 节假日 | 48小时内 | [Telegrame群可紧急反馈 ](https://t.me/boomcloud)|
+| 工作日 | 8小时内 | Telegram紧急反馈 |
+| 节假日 | 48小时内 | Telegram紧急反馈 |
 | AFF提现 | 24小时内 | 工单跟进 |
 
 **10. 如何回复服务单？**
