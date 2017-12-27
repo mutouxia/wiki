@@ -2,8 +2,8 @@
 - - - 
 **1. 怎么使用BoomCloud服务？**
 
-* 首先在[www.boomssx.com](https://wwwboomssx.com)注册账号，然后选择相应的套餐购买付款后即使开通使用。
-* 如有不懂请参阅次wiki内的全平台教程  
+* 首先在[www.boomssx.com](https://www.boomssx.com)注册账号，然后选择相应的套餐购买付款后即使开通使用。
+* 如有不懂请参阅wiki内的全平台教程  
 
 **2. 购买后流量不够用怎么办？**
 
