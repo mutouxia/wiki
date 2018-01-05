@@ -1,6 +1,6 @@
 {
     "title": "BoomCloud Wiki",
-    "description": "ÄãºÃ£¬»¶Ó­Ê¹ÓÃBoomCloud Wiki Center£¬ÎÒÃÇ½«Ìá¹©BoomCloud·şÎñÏà¹Ø½Ì³ÌÖ¸Òı¼°½ø½×½Ì³Ì¡£",
+    "description": "ä½ å¥½ï¼Œæ¬¢è¿ä½¿ç”¨BoomCloud Wiki Centerï¼Œæˆ‘ä»¬å°†æä¾›BoomCloudæœåŠ¡ç›¸å…³æ•™ç¨‹æŒ‡å¼•åŠè¿›é˜¶æ•™ç¨‹ã€‚",
     "language": "zh-hans",
     "plugins": [
         "prism",
@@ -16,10 +16,10 @@
     "pluginsConfig": {
         "search-pro": {
             "cutWordLib": "nodejieba",
-            "defineWord": ["ËÑË÷"]
+            "defineWord": ["æœç´¢"]
         },
 		"sitemap": {
-        "hostname": "http://wiki.boomssr.com"
+        "hostname": "http://wiki.boomssx.com"
 		},
         "fontsettings": {
         "family": "sans",
