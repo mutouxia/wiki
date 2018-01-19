@@ -1,6 +1,8 @@
 ### Boomcloud加速 使用教程 —— Windows
 - - -
 #### Windows平台使用方法一(推荐)
+
+##### **下载客户端：[点击下载](https://cdn-for-boomcloud.b0.upaiyun.com/download/ShadowsocksR.7z)**
 ##### 1. 使用桌面浏览器登录到 Boom Cloud 管理门户
 建议使用Chrome浏览器，访问 Boom Cloud 管理门户,点击您的订阅进入订阅详情页面
 
