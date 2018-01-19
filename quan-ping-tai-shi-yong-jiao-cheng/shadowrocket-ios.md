@@ -7,9 +7,16 @@
 
 点击进入产品详情页面。建议使用 Safari 管理门户，然后点击您的订阅进入订阅详情页面
 
-![](/assets/ios/shadowrocket-2.png)
+##### 2. 导入 Boom Cloud 接入点信息
+点击订阅打开订阅详情页面，然后找到「自动配置」功能区。然后点击「节点订阅」按钮，下拉中点击「普通模式」
 
-##### 2. 在 Shadowrocket 中添加接入点信息订阅
+
+点击之后会自动复制成功，部分浏览器会弹出提示
+
+![](/assets/win/01.png)
+
+
+##### 3. 在 Shadowrocket 中添加接入点信息订阅
 打开 Shadowrocket App，然后在主界面点击右上角的「+」号。
 
 ![](/assets/ios/shadowrocket-4.png)

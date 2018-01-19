@@ -8,15 +8,13 @@
 
 ![](/assets/ios/shadowrocket-1.png)
 
-##### 2. 导入 BoomCloud 接入点信息订阅
+##### 2. 导入 Boom Cloud 接入点信息
+点击订阅打开订阅详情页面，然后找到「自动配置」功能区。然后点击「节点订阅」按钮，下拉中点击「普通模式」
 
-滑动页面到「自动配置」功能区，然后点击「全平台配置」区域的「节点订阅」。
 
-![](/assets/ios/shadowrocket-3.png)
+点击之后会自动复制成功，部分浏览器会弹出提示
 
-点击「节点订阅」按钮后，应当可以看到绿色的「复制成功」文字，这代表接入点订阅 URL 已经成功地复制到了你设备的剪贴板中。
-
-![](/assets/ios/shadowrocket-3.png)
+![](/assets/win/01.png)
 
 打开 ShadowsocksR 应用程序，然后点击顶部的「ShadowsocksR」区域进入接入点列表
 
