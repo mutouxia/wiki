@@ -1,6 +1,24 @@
 ### Boomcloud加速 使用教程 —— Windows
 - - -
-#### Windows平台使用方法一(推荐)
+
+#### Windows平台使用方法一（推荐）
+##### 1.下载BoomCloud for Windows客户端
+下载地址:[BoomCloud客户端2.0](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud-win.2.0.7z)  
+
+##### 2.安装客户端并登陆
+将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
+
+![](/assets/win/client-01.png)
+
+· 登录 Boomcloud 账户自动获取接入点信息  
+· 自动获取套餐到期时间以及流量使用剩余信息  
+· 适应多套餐用户，可自由自主切换套餐无需登录面板   
+· 以 shadowsocksr 方式运行
+##### 3.开始科学上网
+登录之后软件会自动选择默认线路，如无法正常上网，您可以尝试切换线路
+
+
+#### Windows平台使用方法二
 
 ##### **下载客户端：[点击下载](https://cdn-for-boomcloud.b0.upaiyun.com/download/ShadowsocksR.7z)**
 ##### 1. 使用桌面浏览器登录到 Boom Cloud 管理门户
@@ -55,23 +73,7 @@
   B、更新PAC为绕过大陆IP：所有国外网站使用代理，在路由器上配置SS后NAS的BT下载也会使用代理，谨慎使用；
   D、更新PAC为GFW List：GFW List中列表网站，推荐。
 ```
-#### Windows平台使用方法二（目前故障中）
-##### 1.下载BoomCloud for Windows客户端
-下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://wiki.boomssx.com/xia-zai-di-zhi.html)  
 
-下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boomssx.com/downloads.php)
-
-##### 2.安装客户端并登陆
-将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
-
-![](/assets/win/client-01.png)
-
-· 登录 Boomcloud 账户自动获取接入点信息  
-· 自动获取套餐到期时间以及流量使用剩余信息  
-· 适应多套餐用户，可自由自主切换套餐无需登录面板   
-· 以 shadowsocksr 方式运行
-##### 3.开始科学上网
-登录之后软件会自动选择默认线路，如无法正常上网，您可以尝试切换线路
 - - -
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。  
