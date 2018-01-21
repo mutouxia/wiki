@@ -23,14 +23,14 @@
 | 客户端名称 | 下载链接 |  发布日期  |
 | :---: | :---: |:---: |
 | Boomcloud Client for Windows(推荐) | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud-win.2.0.7z) | 2018/1/20 |
-| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_V1.6.dmg) | 2017/8/20 |
+| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_v2.0.dmg) | 2018/1/21 |
 | Boomcloud Client for Game(打游戏推荐) | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/Boomcloud加速器2.1.7z) |2017/8/20 |
 
 特性：  
 * 登录 Boomcloud 账户自动获取接入点信息
 * 自动获取套餐到期时间以及流量使用剩余信息 
 * 适应多套餐用户，可自由自主切换套餐无需登录面板   
----
+
 ---
 注意事项：  
 BoomCloud 与上述APP开发者无任何利益关联，仅作为快捷方式推荐归纳。

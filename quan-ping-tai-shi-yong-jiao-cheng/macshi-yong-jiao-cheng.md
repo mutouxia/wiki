@@ -1,6 +1,24 @@
 ### Boomcloud加速 使用教程 —— Mac OS
 - - -
-#### macOS平台使用方法一.
+
+#### macOS平台使用方法一（推荐）
+##### 1.下载BoomCloud for Mac客户端
+下载地址:[BoomCloud_Mac_v2.0](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_v2.0.dmg)  
+
+##### 2.安装客户端并登陆
+将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
+
+![](/assets/ios/macos-01.png)
+
+· 登录 Boomcloud 账户自动获取接入点信息  
+· 自动获取套餐到期时间以及流量使用剩余信息  
+· 适应多套餐用户，可自由自主切换套餐无需登录面板   
+· 以 shadowsocksr-NG 方式运行
+##### 3.开始科学上网
+登录之后软件会自动选择默认线路，如无法正常上网，您可以尝试切换线路
+![](/assets/ios/macos-02.png)
+
+#### macOS平台使用方法二
 ##### 1. 使用桌面浏览器登录到 BoomCloud 管理门户
 登录用户中心，在"您订购的产品" 区域，找到已订购的产品,点击进入产品详情页面。建议使用 Safari 浏览器，然后点击您的订阅产品进入订阅详情页面
 
@@ -36,24 +54,6 @@ PAC 模式：自动代理模式，仅需要代理的流量通过服务器。
 
 ![](/assets/ios/macos-07.png)
 
-
-#### macOS平台使用方法二（故障中）
-##### 1.下载BoomCloud for Mac客户端
-下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://wiki.boomssx.com/xia-zai-di-zhi.html)  
-
-下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boomssx.com/downloads.php)
-##### 2.安装客户端并登陆
-将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
-
-![](/assets/ios/macos-01.png)
-
-· 登录 Boomcloud 账户自动获取接入点信息  
-· 自动获取套餐到期时间以及流量使用剩余信息  
-· 适应多套餐用户，可自由自主切换套餐无需登录面板   
-· 以 shadowsocksr-NG 方式运行
-##### 3.开始科学上网
-登录之后软件会自动选择默认线路，如无法正常上网，您可以尝试切换线路
-![](/assets/ios/macos-02.png)
 - - -
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。   
